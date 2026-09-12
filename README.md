@@ -32,7 +32,7 @@
 
 1. Склонируйте репозиторий или скачайте архив с проектом:
    ```bash
-   git clone [ссылка_на_ваш_репозиторий]
+   git clone https://github.com/aidysp/932420.pushkunov.aidys.lab1
    ```
 2. Перейдите в папку с проектом.
 3. Откройте файл `index.html` в любом современном браузере (Google Chrome, Яндекс.Браузер, Mozilla Firefox).
